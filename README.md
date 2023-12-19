@@ -58,15 +58,22 @@ This folder contains the scripts used for association analyzis and data visualiz
 
 The scripts are: 
 
-
+**1_LDplots.R**: This script takes the LD information obtained from ensembl and generate a locuszoom plot showing all the SNPs in LD and their location in LGR6. 
+**2_sample_selection_PheWAS.R**: This script takes the UK Biobank phenotype table and select samples based on ethnicity. 
+**3_phenotype_preparation.R**: This script organize the phenotype data (ICD10 data for every patient) in the correct format for the Phewas analysis.   
+**4_genotype_file_preparation.sh**: This bash script used plink tools to retrieve the genotype information of all the participants for a specific variant.
+**5_phewas analysis.R**: This script runs logistic regression models (based on an additive genetic model) of each phenotype against the genotype information for specific genetic variants in the British and South Asian population. 
+**6_phewas_figures.R**: This script takes the results from the phewas analysis and generates manhattan plots.    
 
 ## [b_Expected_Output]()
 
-This folder contains the different expected outputs that can be obtain after running the above scripts. 
+This folder contains, separated by subfolders, the different expected outputs that can be obtain after running the scripts. Each subfolder has the name of the specific script that generates it, in addition to the number of the script, to make more clear what file is the result of what script. 
 
 The subfolders are:
 
-
+**1_LDplots**: The expected results from this script is a table of SNPs with high LD with rs74355478, and locuszoom plots showing the different SNPs in LGR6.
+**5_phewas analysis**: The expected results from this script is a summary statistic table with p-values associated with the logistic regression. Other information include SNPs localization, type of analysis, FDR correction, ICD10 code and phenotype trait for each disease. 
+**6_phewas_figures**: The expected results from this script are manhattan plots showing the p-values of the association between the genetic variant and the different conditions. Different diseases are colored by phenotype trait and up and down triangles indicate if the effect size is positive or negative. 
 
 More details about how this files are generated can be seen in the comments of each script. 
 

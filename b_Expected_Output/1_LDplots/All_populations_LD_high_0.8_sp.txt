@@ -1,0 +1,409 @@
+LD_SNP	Chr	Position	LD_consequence	r2	D	Populations	Ancestry
+rs80250084	1	202184.675	intron_variant	1	1	Bengali	South Asian
+rs80250084	1	202184.675	intron_variant	1	1	European-American	European
+rs80250084	1	202184.675	intron_variant	1	1	Finnish	European
+rs80250084	1	202184.675	intron_variant	1	1	British	European
+rs80250084	1	202184.675	intron_variant	1	1	Spanish	European
+rs80250084	1	202184.675	intron_variant	1	1	Tuscan	European
+rs80250084	1	202184.675	intron_variant	1	1	Dai Chinese	East Asian
+rs80250084	1	202184.675	intron_variant	1	1	Colombian	American
+rs80250084	1	202184.675	intron_variant	0.968105	1	Peruvian	American
+rs80250084	1	202184.675	intron_variant	0.892256	1	Mexican-American	American
+rs80250084	1	202184.675	intron_variant	0.891887	0.944398	Puerto Rican	American
+rs80250084	1	202184.675	intron_variant	0.842347	0.94315	African-American	African
+rs80169796	1	202184.463	intron_variant	1	1	Bengali	South Asian
+rs80169796	1	202184.463	intron_variant	1	1	European-American	European
+rs80169796	1	202184.463	intron_variant	1	1	Finnish	European
+rs80169796	1	202184.463	intron_variant	1	1	British	European
+rs80169796	1	202184.463	intron_variant	1	1	Spanish	European
+rs80169796	1	202184.463	intron_variant	1	1	Tuscan	European
+rs80169796	1	202184.463	intron_variant	1	1	Dai Chinese	East Asian
+rs80169796	1	202184.463	intron_variant	1	1	Colombian	American
+rs80169796	1	202184.463	intron_variant	0.968105	1	Peruvian	American
+rs80169796	1	202184.463	intron_variant	0.892256	1	Mexican-American	American
+rs80169796	1	202184.463	intron_variant	0.891887	0.944398	Puerto Rican	American
+rs80169796	1	202184.463	intron_variant	0.88416	1	Luhya	African
+rs80169796	1	202184.463	intron_variant	0.842347	0.94315	African-American	African
+rs80169796	1	202184.463	intron_variant	0.801755	0.954013	Esan	African
+rs79509091	1	202186.249	intron_variant	1	1	Bengali	South Asian
+rs79509091	1	202186.249	intron_variant	1	1	Gujarati	South Asian
+rs79509091	1	202186.249	intron_variant	1	1	Indian	South Asian
+rs79509091	1	202186.249	intron_variant	1	1	Sri Lankan	South Asian
+rs79509091	1	202186.249	intron_variant	1	1	Finnish	European
+rs79509091	1	202186.249	intron_variant	1	1	British	European
+rs79509091	1	202186.249	intron_variant	1	1	Spanish	European
+rs79509091	1	202186.249	intron_variant	1	1	Tuscan	European
+rs79509091	1	202186.249	intron_variant	1	1	Dai Chinese	East Asian
+rs79509091	1	202186.249	intron_variant	1	1	Han Chinese	East Asian
+rs79509091	1	202186.249	intron_variant	1	1	Southern Han Chinese	East Asian
+rs79509091	1	202186.249	intron_variant	1	1	Japanese	East Asian
+rs79509091	1	202186.249	intron_variant	1	1	Kinh Vietnamese	East Asian
+rs79509091	1	202186.249	intron_variant	1	1	Colombian	American
+rs79509091	1	202186.249	intron_variant	0.968105	1	Peruvian	American
+rs79509091	1	202186.249	intron_variant	0.944974	1	Puerto Rican	American
+rs79509091	1	202186.249	intron_variant	0.939226	1	European-American	European
+rs79509091	1	202186.249	intron_variant	0.894963	1	African-American	African
+rs79509091	1	202186.249	intron_variant	0.892256	1	Mexican-American	American
+rs79509091	1	202186.249	intron_variant	0.88416	1	Luhya	African
+rs79509091	1	202186.249	intron_variant	0.87027	1	Punjabi	South Asian
+rs79509091	1	202186.249	intron_variant	0.842136	0.999999	Esan	African
+rs79509091	1	202186.249	intron_variant	0.808206	0.962507	Yoruba	African
+rs78004752	1	202177.535	intron_variant	1	1	Bengali	South Asian
+rs78004752	1	202177.535	intron_variant	1	1	Sri Lankan	South Asian
+rs78004752	1	202177.535	intron_variant	1	1	Finnish	European
+rs78004752	1	202177.535	intron_variant	1	1	Tuscan	European
+rs78004752	1	202177.535	intron_variant	1	1	Japanese	East Asian
+rs78004752	1	202177.535	intron_variant	0.923077	1	British	European
+rs78004752	1	202177.535	intron_variant	0.889412	1	Colombian	American
+rs78004752	1	202177.535	intron_variant	0.884488	1	Southern Han Chinese	East Asian
+rs78004752	1	202177.535	intron_variant	0.874767	0.93529	European-American	European
+rs78004752	1	202177.535	intron_variant	0.852535	1	Punjabi	South Asian
+rs78004752	1	202177.535	intron_variant	0.829016	1	Kinh Vietnamese	East Asian
+rs78004752	1	202177.535	intron_variant	0.816648	0.903686	Spanish	European
+rs76069988	1	202183.673	intron_variant	1	1	Bengali	South Asian
+rs76069988	1	202183.673	intron_variant	1	1	Gujarati	South Asian
+rs76069988	1	202183.673	intron_variant	1	1	Indian	South Asian
+rs76069988	1	202183.673	intron_variant	1	1	Punjabi	South Asian
+rs76069988	1	202183.673	intron_variant	1	1	Sri Lankan	South Asian
+rs76069988	1	202183.673	intron_variant	1	1	European-American	European
+rs76069988	1	202183.673	intron_variant	1	1	Finnish	European
+rs76069988	1	202183.673	intron_variant	1	1	British	European
+rs76069988	1	202183.673	intron_variant	1	1	Tuscan	European
+rs76069988	1	202183.673	intron_variant	1	1	Dai Chinese	East Asian
+rs76069988	1	202183.673	intron_variant	1	1	Han Chinese	East Asian
+rs76069988	1	202183.673	intron_variant	1	1	Southern Han Chinese	East Asian
+rs76069988	1	202183.673	intron_variant	1	1	Japanese	East Asian
+rs76069988	1	202183.673	intron_variant	1	1	Kinh Vietnamese	East Asian
+rs76069988	1	202183.673	intron_variant	1	1	Colombian	American
+rs76069988	1	202183.673	intron_variant	1	1	Peruvian	American
+rs76069988	1	202183.673	intron_variant	0.943563	1	Mexican-American	American
+rs76069988	1	202183.673	intron_variant	0.904635	1	Spanish	European
+rs76069988	1	202183.673	intron_variant	0.890526	1	Puerto Rican	American
+rs76069988	1	202183.673	intron_variant	0.803803	0.999999	Esan	African
+rs7546761	1	202142.643	intron_variant	1	1	Gujarati	South Asian
+rs7546761	1	202142.643	intron_variant	0.884574	1	Tuscan	European
+rs7511976	1	202142.414	intron_variant	1	1	Gujarati	South Asian
+rs7511976	1	202142.414	intron_variant	0.884574	1	Tuscan	European
+rs7415839	1	202136.698	intergenic_variant	1	1	Gujarati	South Asian
+rs7415839	1	202136.698	intergenic_variant	0.884574	1	Tuscan	European
+rs72746693	1	202172.943	5_prime_UTR_variant	1	1	Gujarati	South Asian
+rs72746693	1	202172.943	5_prime_UTR_variant	0.884574	1	Tuscan	European
+rs72746693	1	202172.943	5_prime_UTR_variant	0.852535	1	Punjabi	South Asian
+rs72746682	1	202157.466	splice_region_variant	1	1	Gujarati	South Asian
+rs72746682	1	202157.466	splice_region_variant	0.884574	1	Tuscan	European
+rs72746675	1	202152.661	intron_variant	1	1	Gujarati	South Asian
+rs72746675	1	202152.661	intron_variant	0.884574	1	Tuscan	European
+rs72746669	1	202149.752	intron_variant	1	1	Gujarati	South Asian
+rs72746669	1	202149.752	intron_variant	0.884574	1	Tuscan	European
+rs6657403	1	202200.949	intron_variant	1	1	Bengali	South Asian
+rs6657403	1	202200.949	intron_variant	1	1	Gujarati	South Asian
+rs6657403	1	202200.949	intron_variant	1	1	Indian	South Asian
+rs6657403	1	202200.949	intron_variant	1	1	British	European
+rs6657403	1	202200.949	intron_variant	1	1	Japanese	East Asian
+rs6657403	1	202200.949	intron_variant	0.939226	1	European-American	European
+rs6657403	1	202200.949	intron_variant	0.912151	1	Spanish	European
+rs6657403	1	202200.949	intron_variant	0.906154	0.967216	Peruvian	American
+rs6657403	1	202200.949	intron_variant	0.89561	1	Tuscan	European
+rs6657403	1	202200.949	intron_variant	0.895522	1	Southern Han Chinese	East Asian
+rs6657403	1	202200.949	intron_variant	0.895431	1	Han Chinese	East Asian
+rs6657403	1	202200.949	intron_variant	0.87027	1	Punjabi	South Asian
+rs6657403	1	202200.949	intron_variant	0.852679	1	Kinh Vietnamese	East Asian
+rs6657403	1	202200.949	intron_variant	0.852381	1	Dai Chinese	East Asian
+rs6657403	1	202200.949	intron_variant	0.813491	1	Colombian	American
+rs61823734	1	202170.789	intron_variant	1	1	Gujarati	South Asian
+rs61823734	1	202170.789	intron_variant	0.884574	1	Tuscan	European
+rs61823734	1	202170.789	intron_variant	0.852535	1	Punjabi	South Asian
+rs61823733	1	202170.505	intron_variant	1	1	Gujarati	South Asian
+rs61823733	1	202170.505	intron_variant	0.884574	1	Tuscan	European
+rs61823733	1	202170.505	intron_variant	0.852535	1	Punjabi	South Asian
+rs61823731	1	202166.497	intron_variant	1	1	Gujarati	South Asian
+rs61823731	1	202166.497	intron_variant	0.884574	1	Tuscan	European
+rs61823728	1	202155.805	non_coding_transcript_exon_variant	1	1	Gujarati	South Asian
+rs61823728	1	202155.805	non_coding_transcript_exon_variant	0.884574	1	Tuscan	European
+rs61823727	1	202155.368	intron_variant	1	1	Gujarati	South Asian
+rs61823727	1	202155.368	intron_variant	0.884574	1	Tuscan	European
+rs61823725	1	202154.439	intron_variant	1	1	Gujarati	South Asian
+rs61823725	1	202154.439	intron_variant	0.884574	1	Tuscan	European
+rs61823724	1	202152.93	intron_variant	1	1	Gujarati	South Asian
+rs61823724	1	202152.93	intron_variant	0.884574	1	Tuscan	European
+rs61823723	1	202152.303	non_coding_transcript_exon_variant	1	1	Gujarati	South Asian
+rs61823723	1	202152.303	non_coding_transcript_exon_variant	0.884574	1	Tuscan	European
+rs61823722	1	202151.878	intron_variant	1	1	Gujarati	South Asian
+rs61823722	1	202151.878	intron_variant	0.884574	1	Tuscan	European
+rs61823721	1	202151.545	intron_variant	1	1	Gujarati	South Asian
+rs61823721	1	202151.545	intron_variant	0.884574	1	Tuscan	European
+rs61823720	1	202151.241	intron_variant	1	1	Gujarati	South Asian
+rs61823720	1	202151.241	intron_variant	0.884574	1	Tuscan	European
+rs61823719	1	202151.127	intron_variant	1	1	Gujarati	South Asian
+rs61823719	1	202151.127	intron_variant	0.884574	1	Tuscan	European
+rs61823718	1	202150.518	intron_variant	1	1	Gujarati	South Asian
+rs61823718	1	202150.518	intron_variant	0.884574	1	Tuscan	European
+rs61823717	1	202150.223	intron_variant	1	1	Gujarati	South Asian
+rs61823717	1	202150.223	intron_variant	0.884574	1	Tuscan	European
+rs61823716	1	202150.207	intron_variant	1	1	Gujarati	South Asian
+rs61823716	1	202150.207	intron_variant	0.884574	1	Tuscan	European
+rs61823715	1	202150.168	intron_variant	1	1	Gujarati	South Asian
+rs61823715	1	202150.168	intron_variant	0.884574	1	Tuscan	European
+rs61823714	1	202150.077	intron_variant	1	1	Gujarati	South Asian
+rs61823714	1	202150.077	intron_variant	0.884574	1	Tuscan	European
+rs61823713	1	202149.824	intron_variant	1	1	Gujarati	South Asian
+rs61823713	1	202149.824	intron_variant	0.884574	1	Tuscan	European
+rs61823712	1	202149.696	intron_variant	1	1	Gujarati	South Asian
+rs61823712	1	202149.696	intron_variant	0.884574	1	Tuscan	European
+rs61823711	1	202149.384	non_coding_transcript_exon_variant	1	1	Gujarati	South Asian
+rs61823711	1	202149.384	non_coding_transcript_exon_variant	0.884574	1	Tuscan	European
+rs61823695	1	202146.927	non_coding_transcript_exon_variant	1	1	Gujarati	South Asian
+rs61823695	1	202146.927	non_coding_transcript_exon_variant	0.884574	1	Tuscan	European
+rs61823694	1	202143.635	intron_variant	1	1	Gujarati	South Asian
+rs61823694	1	202143.635	intron_variant	0.884574	1	Tuscan	European
+rs61823692	1	202142.792	intron_variant	1	1	Gujarati	South Asian
+rs61823692	1	202142.792	intron_variant	0.884574	1	Tuscan	European
+rs61823691	1	202141.414	intron_variant	1	1	Gujarati	South Asian
+rs61823691	1	202141.414	intron_variant	0.884574	1	Tuscan	European
+rs61821579	1	202193.394	intron_variant	1	1	Bengali	South Asian
+rs61821579	1	202193.394	intron_variant	1	1	Gujarati	South Asian
+rs61821579	1	202193.394	intron_variant	1	1	Indian	South Asian
+rs61821579	1	202193.394	intron_variant	1	1	British	European
+rs61821579	1	202193.394	intron_variant	1	1	Han Chinese	East Asian
+rs61821579	1	202193.394	intron_variant	1	1	Japanese	East Asian
+rs61821579	1	202193.394	intron_variant	1	1	Colombian	American
+rs61821579	1	202193.394	intron_variant	0.939226	1	European-American	European
+rs61821579	1	202193.394	intron_variant	0.936697	1	Peruvian	American
+rs61821579	1	202193.394	intron_variant	0.89561	1	Tuscan	European
+rs61821579	1	202193.394	intron_variant	0.895522	1	Southern Han Chinese	East Asian
+rs61821579	1	202193.394	intron_variant	0.87027	1	Punjabi	South Asian
+rs61821579	1	202193.394	intron_variant	0.852679	1	Kinh Vietnamese	East Asian
+rs61821579	1	202193.394	intron_variant	0.852381	1	Dai Chinese	East Asian
+rs61821579	1	202193.394	intron_variant	0.84541	1	Mexican-American	American
+rs61821579	1	202193.394	intron_variant	0.836649	1	Puerto Rican	American
+rs61821579	1	202193.394	intron_variant	0.816735	0.903734	Spanish	European
+rs61821576	1	202185.48	intron_variant	1	1	Bengali	South Asian
+rs61821576	1	202185.48	intron_variant	1	1	Gujarati	South Asian
+rs61821576	1	202185.48	intron_variant	1	1	Indian	South Asian
+rs61821576	1	202185.48	intron_variant	1	1	Sri Lankan	South Asian
+rs61821576	1	202185.48	intron_variant	1	1	European-American	European
+rs61821576	1	202185.48	intron_variant	1	1	Finnish	European
+rs61821576	1	202185.48	intron_variant	1	1	British	European
+rs61821576	1	202185.48	intron_variant	1	1	Spanish	European
+rs61821576	1	202185.48	intron_variant	1	1	Tuscan	European
+rs61821576	1	202185.48	intron_variant	1	1	Dai Chinese	East Asian
+rs61821576	1	202185.48	intron_variant	1	1	Han Chinese	East Asian
+rs61821576	1	202185.48	intron_variant	1	1	Southern Han Chinese	East Asian
+rs61821576	1	202185.48	intron_variant	1	1	Japanese	East Asian
+rs61821576	1	202185.48	intron_variant	1	1	Kinh Vietnamese	East Asian
+rs61821576	1	202185.48	intron_variant	1	1	Colombian	American
+rs61821576	1	202185.48	intron_variant	0.968105	1	Peruvian	American
+rs61821576	1	202185.48	intron_variant	0.944974	1	Puerto Rican	American
+rs61821576	1	202185.48	intron_variant	0.894963	1	African-American	African
+rs61821576	1	202185.48	intron_variant	0.892256	1	Mexican-American	American
+rs61821576	1	202185.48	intron_variant	0.88416	1	Luhya	African
+rs61821576	1	202185.48	intron_variant	0.87027	1	Punjabi	South Asian
+rs61821576	1	202185.48	intron_variant	0.842136	0.999999	Esan	African
+rs61821576	1	202185.48	intron_variant	0.808206	0.962507	Yoruba	African
+rs61821575	1	202178.331	intron_variant	1	1	Bengali	South Asian
+rs61821575	1	202178.331	intron_variant	1	1	Gujarati	South Asian
+rs61821575	1	202178.331	intron_variant	1	1	Punjabi	South Asian
+rs61821575	1	202178.331	intron_variant	1	1	Sri Lankan	South Asian
+rs61821575	1	202178.331	intron_variant	1	1	Finnish	European
+rs61821575	1	202178.331	intron_variant	1	1	British	European
+rs61821575	1	202178.331	intron_variant	1	1	Spanish	European
+rs61821575	1	202178.331	intron_variant	1	1	Tuscan	European
+rs61821575	1	202178.331	intron_variant	1	1	Dai Chinese	East Asian
+rs61821575	1	202178.331	intron_variant	1	1	Japanese	East Asian
+rs61821575	1	202178.331	intron_variant	1	1	Kinh Vietnamese	East Asian
+rs61821575	1	202178.331	intron_variant	1	1	Colombian	American
+rs61821575	1	202178.331	intron_variant	0.968623	1	Peruvian	American
+rs61821575	1	202178.331	intron_variant	0.944974	1	Puerto Rican	American
+rs61821575	1	202178.331	intron_variant	0.943563	1	Mexican-American	American
+rs61821575	1	202178.331	intron_variant	0.939226	1	European-American	European
+rs61821575	1	202178.331	intron_variant	0.904453	1	Han Chinese	East Asian
+rs61821575	1	202178.331	intron_variant	0.884488	1	Southern Han Chinese	East Asian
+rs61821573	1	202177.37	intron_variant	1	1	Bengali	South Asian
+rs61821573	1	202177.37	intron_variant	1	1	Gujarati	South Asian
+rs61821573	1	202177.37	intron_variant	1	1	Punjabi	South Asian
+rs61821573	1	202177.37	intron_variant	1	1	Sri Lankan	South Asian
+rs61821573	1	202177.37	intron_variant	1	1	British	European
+rs61821573	1	202177.37	intron_variant	1	1	Japanese	East Asian
+rs61821573	1	202177.37	intron_variant	1	1	Colombian	American
+rs61821573	1	202177.37	intron_variant	0.943563	1	Mexican-American	American
+rs61821573	1	202177.37	intron_variant	0.904609	0.96665	Peruvian	American
+rs61821573	1	202177.37	intron_variant	0.89561	1	Tuscan	European
+rs61821573	1	202177.37	intron_variant	0.884488	1	Southern Han Chinese	East Asian
+rs61821573	1	202177.37	intron_variant	0.835911	1	European-American	European
+rs61821573	1	202177.37	intron_variant	0.829016	1	Kinh Vietnamese	East Asian
+rs61821573	1	202177.37	intron_variant	0.82483	1	Han Chinese	East Asian
+rs61821573	1	202177.37	intron_variant	0.816648	0.903686	Spanish	European
+rs61821572	1	202175.121	intron_variant	1	1	Gujarati	South Asian
+rs61821572	1	202175.121	intron_variant	0.884574	1	Tuscan	European
+rs61821572	1	202175.121	intron_variant	0.852535	1	Punjabi	South Asian
+rs61821569	1	202172.215	intron_variant	1	1	Gujarati	South Asian
+rs61821569	1	202172.215	intron_variant	0.884574	1	Tuscan	European
+rs61821569	1	202172.215	intron_variant	0.852535	1	Punjabi	South Asian
+rs61757817	1	202147.443	non_coding_transcript_exon_variant	1	1	Gujarati	South Asian
+rs61757817	1	202147.443	non_coding_transcript_exon_variant	0.884574	1	Tuscan	European
+rs61738732	1	202148.429	non_coding_transcript_exon_variant	1	1	Gujarati	South Asian
+rs61738732	1	202148.429	non_coding_transcript_exon_variant	0.884574	1	Tuscan	European
+rs61736271	1	202141.154	non_coding_transcript_exon_variant	1	1	Gujarati	South Asian
+rs61736271	1	202141.154	non_coding_transcript_exon_variant	0.884574	1	Tuscan	European
+rs61403289	1	202137.254	non_coding_transcript_exon_variant	1	1	Gujarati	South Asian
+rs61403289	1	202137.254	non_coding_transcript_exon_variant	0.884574	1	Tuscan	European
+rs61043859	1	202137.563	non_coding_transcript_exon_variant	1	1	Gujarati	South Asian
+rs61043859	1	202137.563	non_coding_transcript_exon_variant	0.884574	1	Tuscan	European
+rs56743821	1	202148.033	splice_donor_variant	1	1	Gujarati	South Asian
+rs56743821	1	202148.033	splice_donor_variant	0.884574	1	Tuscan	European
+rs5010501	1	202201.71	intron_variant	1	1	Bengali	South Asian
+rs5010501	1	202201.71	intron_variant	1	1	Gujarati	South Asian
+rs5010501	1	202201.71	intron_variant	1	1	Indian	South Asian
+rs5010501	1	202201.71	intron_variant	1	1	British	European
+rs5010501	1	202201.71	intron_variant	1	1	Japanese	East Asian
+rs5010501	1	202201.71	intron_variant	0.939226	1	European-American	European
+rs5010501	1	202201.71	intron_variant	0.936379	0.967667	Peruvian	American
+rs5010501	1	202201.71	intron_variant	0.912151	1	Spanish	European
+rs5010501	1	202201.71	intron_variant	0.89561	1	Tuscan	European
+rs5010501	1	202201.71	intron_variant	0.895522	1	Southern Han Chinese	East Asian
+rs5010501	1	202201.71	intron_variant	0.895431	1	Han Chinese	East Asian
+rs5010501	1	202201.71	intron_variant	0.87027	1	Punjabi	South Asian
+rs5010501	1	202201.71	intron_variant	0.852679	1	Kinh Vietnamese	East Asian
+rs5010501	1	202201.71	intron_variant	0.852381	1	Dai Chinese	East Asian
+rs5010501	1	202201.71	intron_variant	0.813491	1	Colombian	American
+rs4950835	1	202185.173	intron_variant	1	1	Bengali	South Asian
+rs4950835	1	202185.173	intron_variant	1	1	Gujarati	South Asian
+rs4950835	1	202185.173	intron_variant	1	1	Indian	South Asian
+rs4950835	1	202185.173	intron_variant	1	1	Sri Lankan	South Asian
+rs4950835	1	202185.173	intron_variant	1	1	European-American	European
+rs4950835	1	202185.173	intron_variant	1	1	Finnish	European
+rs4950835	1	202185.173	intron_variant	1	1	British	European
+rs4950835	1	202185.173	intron_variant	1	1	Spanish	European
+rs4950835	1	202185.173	intron_variant	1	1	Tuscan	European
+rs4950835	1	202185.173	intron_variant	1	1	Dai Chinese	East Asian
+rs4950835	1	202185.173	intron_variant	1	1	Han Chinese	East Asian
+rs4950835	1	202185.173	intron_variant	1	1	Southern Han Chinese	East Asian
+rs4950835	1	202185.173	intron_variant	1	1	Japanese	East Asian
+rs4950835	1	202185.173	intron_variant	1	1	Kinh Vietnamese	East Asian
+rs4950835	1	202185.173	intron_variant	1	1	Colombian	American
+rs4950835	1	202185.173	intron_variant	0.968105	1	Peruvian	American
+rs4950835	1	202185.173	intron_variant	0.944974	1	Puerto Rican	American
+rs4950835	1	202185.173	intron_variant	0.894963	1	African-American	African
+rs4950835	1	202185.173	intron_variant	0.892256	1	Mexican-American	American
+rs4950835	1	202185.173	intron_variant	0.88416	1	Luhya	African
+rs4950835	1	202185.173	intron_variant	0.87027	1	Punjabi	South Asian
+rs4950835	1	202185.173	intron_variant	0.842136	0.999999	Esan	African
+rs4950835	1	202185.173	intron_variant	0.808206	0.962507	Yoruba	African
+rs4950834	1	202184.761	intron_variant	1	1	Bengali	South Asian
+rs4950834	1	202184.761	intron_variant	1	1	Gujarati	South Asian
+rs4950834	1	202184.761	intron_variant	1	1	Indian	South Asian
+rs4950834	1	202184.761	intron_variant	1	1	Sri Lankan	South Asian
+rs4950834	1	202184.761	intron_variant	1	1	European-American	European
+rs4950834	1	202184.761	intron_variant	1	1	Finnish	European
+rs4950834	1	202184.761	intron_variant	1	1	British	European
+rs4950834	1	202184.761	intron_variant	1	1	Spanish	European
+rs4950834	1	202184.761	intron_variant	1	1	Tuscan	European
+rs4950834	1	202184.761	intron_variant	1	1	Dai Chinese	East Asian
+rs4950834	1	202184.761	intron_variant	1	1	Han Chinese	East Asian
+rs4950834	1	202184.761	intron_variant	1	1	Southern Han Chinese	East Asian
+rs4950834	1	202184.761	intron_variant	1	1	Japanese	East Asian
+rs4950834	1	202184.761	intron_variant	1	1	Kinh Vietnamese	East Asian
+rs4950834	1	202184.761	intron_variant	1	1	Colombian	American
+rs4950834	1	202184.761	intron_variant	0.968105	1	Peruvian	American
+rs4950834	1	202184.761	intron_variant	0.944974	1	Puerto Rican	American
+rs4950834	1	202184.761	intron_variant	0.894963	1	African-American	African
+rs4950834	1	202184.761	intron_variant	0.892256	1	Mexican-American	American
+rs4950834	1	202184.761	intron_variant	0.88416	1	Luhya	African
+rs4950834	1	202184.761	intron_variant	0.87027	1	Punjabi	South Asian
+rs4950834	1	202184.761	intron_variant	0.842136	0.999999	Esan	African
+rs4950834	1	202184.761	intron_variant	0.808206	0.962507	Yoruba	African
+rs4581326	1	202140.598	intron_variant	1	1	Gujarati	South Asian
+rs4581326	1	202140.598	intron_variant	0.884574	1	Tuscan	European
+rs4500378	1	202140.566	splice_region_variant	1	1	Gujarati	South Asian
+rs4500378	1	202140.566	splice_region_variant	0.884574	1	Tuscan	European
+rs4266947	1	202202.238	intron_variant	1	1	Gujarati	South Asian
+rs4266947	1	202202.238	intron_variant	1	1	Indian	South Asian
+rs4266947	1	202202.238	intron_variant	1	1	Punjabi	South Asian
+rs4266947	1	202202.238	intron_variant	1	1	Japanese	East Asian
+rs4266947	1	202202.238	intron_variant	0.944379	1	Colombian	American
+rs4266947	1	202202.238	intron_variant	0.912151	1	Spanish	European
+rs4266947	1	202202.238	intron_variant	0.895431	1	Han Chinese	East Asian
+rs4266947	1	202202.238	intron_variant	0.873379	0.96561	Peruvian	American
+rs4266947	1	202202.238	intron_variant	0.852381	1	Dai Chinese	East Asian
+rs4266947	1	202202.238	intron_variant	0.847059	1	British	European
+rs35567242	1	202185.049	intron_variant	1	1	Bengali	South Asian
+rs35567242	1	202185.049	intron_variant	1	1	European-American	European
+rs35567242	1	202185.049	intron_variant	1	1	Finnish	European
+rs35567242	1	202185.049	intron_variant	1	1	British	European
+rs35567242	1	202185.049	intron_variant	1	1	Spanish	European
+rs35567242	1	202185.049	intron_variant	1	1	Tuscan	European
+rs35567242	1	202185.049	intron_variant	1	1	Dai Chinese	East Asian
+rs35567242	1	202185.049	intron_variant	1	1	Colombian	American
+rs35567242	1	202185.049	intron_variant	0.968105	1	Peruvian	American
+rs35567242	1	202185.049	intron_variant	0.892256	1	Mexican-American	American
+rs35567242	1	202185.049	intron_variant	0.891887	0.944398	Puerto Rican	American
+rs35567242	1	202185.049	intron_variant	0.88416	1	Luhya	African
+rs35567242	1	202185.049	intron_variant	0.842347	0.94315	African-American	African
+rs35567242	1	202185.049	intron_variant	0.801755	0.954013	Esan	African
+rs35555386	1	202192.229	intron_variant	0.895522	1	Southern Han Chinese	East Asian
+rs35555386	1	202192.229	intron_variant	0.852679	1	Kinh Vietnamese	East Asian
+rs3010074	1	202189.472	intron_variant	1	1	Southern Han Chinese	East Asian
+rs3010074	1	202189.472	intron_variant	1	1	Kinh Vietnamese	East Asian
+rs3010074	1	202189.472	intron_variant	0.852381	1	Dai Chinese	East Asian
+rs3010072	1	202190.619	intron_variant	1	1	Southern Han Chinese	East Asian
+rs3010072	1	202190.619	intron_variant	1	1	Kinh Vietnamese	East Asian
+rs3010072	1	202190.619	intron_variant	0.852381	1	Dai Chinese	East Asian
+rs3010070	1	202190.889	intron_variant	1	1	Southern Han Chinese	East Asian
+rs3010070	1	202190.889	intron_variant	1	1	Kinh Vietnamese	East Asian
+rs3010070	1	202190.889	intron_variant	0.852381	1	Dai Chinese	East Asian
+rs2993438	1	202194.028	intron_variant	0.895522	1	Southern Han Chinese	East Asian
+rs2993438	1	202194.028	intron_variant	0.852679	1	Kinh Vietnamese	East Asian
+rs2860229	1	202188.616	intron_variant	1	1	Southern Han Chinese	East Asian
+rs2860229	1	202188.616	intron_variant	1	1	Kinh Vietnamese	East Asian
+rs2860229	1	202188.616	intron_variant	0.852381	1	Dai Chinese	East Asian
+rs2361449	1	202201.808	intron_variant	1	1	Bengali	South Asian
+rs2361449	1	202201.808	intron_variant	1	1	Gujarati	South Asian
+rs2361449	1	202201.808	intron_variant	1	1	Indian	South Asian
+rs2361449	1	202201.808	intron_variant	1	1	British	European
+rs2361449	1	202201.808	intron_variant	1	1	Japanese	East Asian
+rs2361449	1	202201.808	intron_variant	1	1	Colombian	American
+rs2361449	1	202201.808	intron_variant	0.939226	1	European-American	European
+rs2361449	1	202201.808	intron_variant	0.936697	1	Peruvian	American
+rs2361449	1	202201.808	intron_variant	0.89561	1	Tuscan	European
+rs2361449	1	202201.808	intron_variant	0.895522	1	Southern Han Chinese	East Asian
+rs2361449	1	202201.808	intron_variant	0.895431	1	Han Chinese	East Asian
+rs2361449	1	202201.808	intron_variant	0.87027	1	Punjabi	South Asian
+rs2361449	1	202201.808	intron_variant	0.852679	1	Kinh Vietnamese	East Asian
+rs2361449	1	202201.808	intron_variant	0.852381	1	Dai Chinese	East Asian
+rs2361449	1	202201.808	intron_variant	0.836649	1	Puerto Rican	American
+rs2361449	1	202201.808	intron_variant	0.816735	0.903734	Spanish	European
+rs202099318	1	202160.347	intergenic_variant	1	1	Gujarati	South Asian
+rs202099318	1	202160.347	intergenic_variant	0.884574	1	Tuscan	European
+rs1869105	1	202195.336	intron_variant	0.895522	1	Southern Han Chinese	East Asian
+rs1869105	1	202195.336	intron_variant	0.852679	1	Kinh Vietnamese	East Asian
+rs150466300	1	202149.295	non_coding_transcript_exon_variant	1	1	Gujarati	South Asian
+rs150466300	1	202149.295	non_coding_transcript_exon_variant	0.884574	1	Tuscan	European
+rs149018568	1	202153.942	non_coding_transcript_exon_variant	1	1	Gujarati	South Asian
+rs149018568	1	202153.942	non_coding_transcript_exon_variant	0.884574	1	Tuscan	European
+rs146522479	1	202149.341	non_coding_transcript_exon_variant	1	1	Gujarati	South Asian
+rs146522479	1	202149.341	non_coding_transcript_exon_variant	0.884574	1	Tuscan	European
+rs146035400	1	202184.238	intron_variant	1	1	Bengali	South Asian
+rs146035400	1	202184.238	intron_variant	1	1	European-American	European
+rs146035400	1	202184.238	intron_variant	1	1	Finnish	European
+rs146035400	1	202184.238	intron_variant	1	1	British	European
+rs146035400	1	202184.238	intron_variant	1	1	Spanish	European
+rs146035400	1	202184.238	intron_variant	1	1	Tuscan	European
+rs146035400	1	202184.238	intron_variant	1	1	Dai Chinese	East Asian
+rs146035400	1	202184.238	intron_variant	1	1	Colombian	American
+rs146035400	1	202184.238	intron_variant	0.968105	1	Peruvian	American
+rs146035400	1	202184.238	intron_variant	0.892256	1	Mexican-American	American
+rs146035400	1	202184.238	intron_variant	0.891887	0.944398	Puerto Rican	American
+rs146035400	1	202184.238	intron_variant	0.88416	1	Luhya	African
+rs146035400	1	202184.238	intron_variant	0.842347	0.94315	African-American	African
+rs1452070	1	202196.931	intron_variant	0.895522	1	Southern Han Chinese	East Asian
+rs1452070	1	202196.931	intron_variant	0.852679	1	Kinh Vietnamese	East Asian
+rs143710111	1	202143.682	intron_variant	1	1	Gujarati	South Asian
+rs143710111	1	202143.682	intron_variant	0.884574	1	Tuscan	European
+rs142432149	1	202153.354	intron_variant	1	1	Gujarati	South Asian
+rs142432149	1	202153.354	intron_variant	0.884574	1	Tuscan	European
+rs117375840	1	202153.716	intron_variant	1	1	Gujarati	South Asian
+rs117375840	1	202153.716	intron_variant	0.884574	1	Tuscan	European
+rs116167753	1	202133.26	intergenic_variant	1	1	Gujarati	South Asian
+rs116167753	1	202133.26	intergenic_variant	0.884574	1	Tuscan	European
+rs10920353	1	202148.895	intron_variant	1	1	Gujarati	South Asian
+rs10920353	1	202148.895	intron_variant	0.884574	1	Tuscan	European
