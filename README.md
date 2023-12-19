@@ -30,71 +30,49 @@ For installing R and R Studio, follows the installation instructions [here](http
 
 Plink 1.9 tools are already installed in high-performance computing cluster and it was called using the function **module load plink/1.9-170906**.
 
-For installing METAL, follows the installation instructions [here](https://csg.sph.umich.edu/abecasis/metal/download/).  
-
 ## Required R packages (libraries): 
 
 The requiered packates to run all scripts should be installed automatically when you run each scritp; however, in case you need to install them manually, you can do it as follow:
 
 ```
-# Packages ggplot2, ggrepel, dplyr, gggenes:
+# Packages ggplot2, rlist, stringr:
 if (!require('ggplot2')) install.packages('ggplot2'); library('ggplot2')
-if (!require('ggrepel')) install.packages('ggrepel'); library('ggrepel')
-if (!require('dplyr')) install.packages('dplyr'); library('dplyr')
-if (!require('gggenes')) install.packages('gggenes'); library('gggenes')
+if (!require('rlist')) install.packages('rlist'); library('rlist')
+if (!require('stringr')) install.packages('stringr'); library('stringr')
+
+# Packages pheWAS:
+install.packages("devtools")
+#It may be necessary to install required as not all package dependencies are installed by devtools:
+install.packages(c("dplyr","tidyr","ggplot2","MASS","meta","ggrepel","DT"))
+devtools::install_github("PheWAS/PheWAS")
+library(PheWAS)
 
 ```
 # Content: 
 
-The repository contains three folders: 
+The repository contains two folders (UK Biobank genotype and phenotype data is not publicly available, so I didn't add a Data folder): 
 
-## [a_Data](https://github.com/eagomezc/CG-association-analysis-in-SPM-related-genes/tree/main/a_Data)
+## [a_Scripts]()
 
-This folder contains, separated by subfolders, the different file formats that has to be used to run the different R scripts. 
-
-**NOTE:** Genotype and phenotype information from UK Biobank is not publicly available. 
-
-The subfolders are:
-
-**1_Visualization_plots_(R_script)**: Contains a folder with summary statistics for all the SPM-related genes. In addition, it contains tables with gene's information (chromosome and gene name) and available information of the genes in UK Biobank. 
-
-**2_Meta-analysis_(METAL)**: Contains summary statistics files for meta-analysis in addition of the configuration file ([metal_RA_sig_with_MegaGWAS_sig_HE_SE.txt](https://github.com/eagomezc/CG-association-analysis-in-SPM-related-genes/blob/main/a_Data/2_Meta-analysis_(METAL)/metal_RA_sig_with_MegaGWAS_sig_HE_SE.txt)) to run METAL.
-
-**3_METAL_visualization_results**: Contains tab-delimited results from META analysis. 
-
-More details about the format of this files can be seen in the comments of each script. 
-
-## [b_R_Scripts](https://github.com/eagomezc/CG-association-analysis-in-SPM-related-genes/tree/main/b_R_Scripts)
-
-This folder contains the scripts used to performed and analysed the candidate gene association analysis and meta-analysis. 
+This folder contains the scripts used for association analyzis and data visualization. 
 
 The scripts are: 
 
-**0_Candidate_gene_association_analysis_job.sh**: Using the genotype and phenotype information of cases and controls from UK Biobank, this script perfomed association analysis of selected SPM-related genes. The script **filter the cases and the controls**, performed **quality controls** steps and finally run the association analysis based on **additive, recessive and dominant genetic models**. 
 
-**1_Visualization_plots_(R_script).R**: Takes the summary statistics obtained from the previous script and generate a manhattan plot for visualization of genetic variants associated with rheumatoid arthritis.
 
-**NOTE**: Meta-analysis using METAL are run using the terminal. To run METAL I used the following command: **../metal config.txt**. 
+## [b_Expected_Output]()
 
-**3_METAL_visualization_results_(R_script).R**: Taking the meta-analysis results from the previous analysis, this script generates a forest plot highlighting the effect size of the candidate genetic variant.  
-
-More details of how the scripts works can be seen in the comments of each script. 
-
-## [c_Expected_Output](https://github.com/eagomezc/CG-association-analysis-in-SPM-related-genes/tree/main/c_Expected_Output)
-
-This folder contains, separated by subfolders, the different expected outputs that can be obtain after running the R scripts. Each subfolder has the name of the specific script that generates it, in addition to the number of the script, to make more clear what file is the result of what script. At the moment to download this repository in a local computer, it's important to remember that all the **output pathways in the scripts has to be changed**.
+This folder contains the different expected outputs that can be obtain after running the above scripts. 
 
 The subfolders are:
 
-**1_Visualization_plots_(R_script)**: The expected results from this script are candidate gene summarize statistics and manhattan plots for visualization. 
 
-**3_METAL_visualization_results_(R_script)**: The expected results from this script are a tab-delimited file containing meta-analysis results including genetic variants' information (location, p-values, beta scores, odd-ratios, etc.) and Forest plot summarizing the results.  
 
 More details about how this files are generated can be seen in the comments of each script. 
 
 # Publication:
 
-Part of the results from this section of my thesis are described in a puplication that is been peer-reviewed. 
+Part of the results from this section of my thesis are described in a publication that is being peer-reviewed. 
 
 
 
