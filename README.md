@@ -1,12 +1,12 @@
-# Genetic variants and regulation of specialized pro-resolving mediator in rheumatoid arthritis
+# Loss of LGR6 expression as a result of a frameshift mutation alters pro-resolving responses in human phagocytes
 
 # Overview: 
 
-This repository contains the **Bash and R scripts** used to do a candidate gene association analysis with the purpose of identifying genetic variants in SPM-related genes associated with rheumatoid arthritis. Genotype and phenotype data from participant was obtained from the [**UK Biobank dataset**](https://www.ukbiobank.ac.uk/) and association analysis were performed using [**Plink 1.9 tools**](https://www.cog-genomics.org/plink/).
+This repository contains the **Bash and R scripts** used to study the association between the genetic variant in LGR6, **rs74355478**, with a large number of phenotypes in a population level. Genotype and phenotype data from participant was obtained from the [**UK Biobank dataset**](https://www.ukbiobank.ac.uk/), variant identification were performed using [**Plink 1.9 tools**](https://www.cog-genomics.org/plink/) and phenome-wide association analysis was performed using the R script [**PheWAS**](https://github.com/PheWAS/PheWAS).
 
-In addition to this, I also used a couple of **R scripts** for summary statistics visualization and [**METAL software**](https://genome.sph.umich.edu/wiki/METAL_Documentation) for meta-analysis. 
+To identify genetic variants in **linkage of disequilibrium (LD)** with rs74355478, I used [**ensembl Grch37 website tool**](https://grch37.ensembl.org/Homo_sapiens/Tools/LD?db=core;tl=Gc01pnpSuyUdvsEo-8926382). More details of the parameters used can be found in the thesis.
 
-**NOTE:** **FUMA GWAS web-based application** (more information [here](https://fuma.ctglab.nl/)) (version 1.6.0) was used for fine mapping and functional annotation of the candidate genetic variants (biological consequences). 
+**NOTE:** **PhenoScanner** (more information [here](http://www.phenoscanner.medschl.cam.ac.uk/) was used to identify previously reported human genotype-phenotype associations of rs74355478 and all the genetic variants in LD (r2 > 0.8).
 
 # System Requirements: 
 
