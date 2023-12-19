@@ -52,7 +52,7 @@ library(PheWAS)
 
 The repository contains two folders (UK Biobank genotype and phenotype data is not publicly available, so I didn't add a Data folder): 
 
-## [a_Scripts]()
+## [a_Scripts](https://github.com/eagomezc/LGR6-frameshift-variant/tree/main/a_Scripts)
 
 This folder contains the scripts used for association analyzis and data visualization. 
 
@@ -65,7 +65,7 @@ The scripts are:
 **5_phewas analysis.R**: This script runs logistic regression models (based on an additive genetic model) of each phenotype against the genotype information for specific genetic variants in the British and South Asian population. 
 **6_phewas_figures.R**: This script takes the results from the phewas analysis and generates manhattan plots.    
 
-## [b_Expected_Output]()
+## [b_Expected_Output](https://github.com/eagomezc/LGR6-frameshift-variant/tree/main/b_Expected_Output)
 
 This folder contains, separated by subfolders, the different expected outputs that can be obtain after running the scripts. Each subfolder has the name of the specific script that generates it, in addition to the number of the script, to make more clear what file is the result of what script. 
 
