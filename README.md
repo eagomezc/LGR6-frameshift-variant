@@ -86,7 +86,9 @@ More details about how this files are generated can be seen in the comments of e
 
 # Publication:
 
-Part of the results from this section of my thesis are described in a publication that is being peer-reviewed. 
+ If you use these codes for your research please cite these paper:
+ 
+*Gomez, E.A., De Matteis, R., Udomjarumanee, P. et al. An LGR6 frameshift variant abrogates receptor expression on select leukocyte subsets and is associated with viral infections. Blood (2024) 144 (4): 420–434. https://doi.org/10.1182/blood.2023021826*
 
 
 
