@@ -6,7 +6,7 @@ This repository contains the **Bash and R scripts** used to study the associatio
 
 To identify genetic variants in **linkage of disequilibrium (LD)** with rs74355478, I used [**ensembl Grch37 website tool**](https://grch37.ensembl.org/Homo_sapiens/Tools/LD?db=core;tl=Gc01pnpSuyUdvsEo-8926382). More details of the parameters used can be found in the thesis.
 
-**NOTE:** **PhenoScanner** (more information [here](http://www.phenoscanner.medschl.cam.ac.uk/) was used to identify previously reported human genotype-phenotype associations of rs74355478 and all the genetic variants in LD (r2 > 0.8).
+**NOTE:** **PhenoScanner** (more information [here](http://www.phenoscanner.medschl.cam.ac.uk/)) was used to identify previously reported human genotype-phenotype associations of rs74355478 and all the genetic variants in LD (r2 > 0.8).
 
 # System Requirements: 
 
