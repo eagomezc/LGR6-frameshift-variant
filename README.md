@@ -12,7 +12,7 @@ To identify genetic variants in **linkage of disequilibrium (LD)** with rs743554
 
 ## Hardware requirements: 
 
-All the scripts and software used for the **manuscript** were run in a standard computer (RAM: 8GB, CP$: 4 cores, 3.60 GHZ/core). 
+All the scripts and software used for the **manuscript** were run in a standard computer (RAM: 8GB, CPU: 4 cores, 3.60 GHZ/core). 
 
 Big data analysis (including UK Biobank data manipulation and association analysis) were performed in the high-performance computing cluster of QMUL (more information [here](https://docs.hpc.qmul.ac.uk/)). Running time in the cluster depends of memory availability. 
 
